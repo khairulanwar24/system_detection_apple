@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   image_picker: ^1.0.7 
-  tflite_v2: ^1.0.0
+
 
 
 dev_dependencies:
@@ -23,7 +23,8 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-  # assets:
+  assets:
+  - asset/images/
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
